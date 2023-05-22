@@ -2,8 +2,8 @@
 
 ## 基本情報
 - Name: `Kakeru YAMAGIWA`
-- Qiita: [_yama_P_](https://qiita.com/_yama_P_)
-- Twitter: [@_yama_P_](https://twitter.com/_yama_P_)
+- Qiita: [\_yama\_P\_](https://qiita.com/_yama_P_)
+- Twitter: [\@\_yama\_P\_](https://twitter.com/_yama_P_)
 
 ## スキル
 
@@ -14,7 +14,7 @@
 ## 連絡先
 
 - Mail: `yama.k.engineering@gmail.com`
-- Line: [_yama_p_](https://line.me/ti/p/e8Np_Ew3jC)
+- Line: [\_yama\_p\_](https://line.me/ti/p/e8Np_Ew3jC)
 - Discord: `_yama_P_#3339`
 
 
