@@ -3,7 +3,7 @@
 ## 基本情報
 - Name: `Kakeru YAMAGIWA`
 - Qiita: `https://qiita.com/_yama_P_`
-- Twitter: https://twitter.com/_yama_P_
+- Twitter: `https://twitter.com/_yama_P_`
 
 ## スキル
 
