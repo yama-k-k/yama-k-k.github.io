@@ -97,7 +97,7 @@ dark brown eyes
     - `red bow tie` で使ってた
 - `whirlpool`: つむじ
     - `red ribbon on whirlpool` で頭のリボンを表現しようとしていた
----
+
 
 # ネガティブプロンプト
 - `worst quality`
