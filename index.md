@@ -11,6 +11,10 @@
 - Java
 - Postgresql
 
+## 趣味
+- Stable Diffusion
+    - [prompt links](./docs/stable_diffusion_prompt)
+
 ## 連絡先
 
 - Mail: `yama.k.engineering@gmail.com`
